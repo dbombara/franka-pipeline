@@ -1,4 +1,4 @@
-# Research Pitch: Parameter-Free Online Finetuning of Deep Visuomotor Policies
+ß# Research Pitch: Parameter-Free Online Finetuning of Deep Visuomotor Policies
 
 TLDR: Use the Mechanic algorithm to select learning rates during online reinforcement learning (RL) of visuomotor policies on the Franka Research 3.
 
